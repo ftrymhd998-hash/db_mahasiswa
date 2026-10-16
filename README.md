@@ -11,7 +11,7 @@ Aplikasi pendataan mahasiswa menggunakan Laravel 8, MySQL, dan template AdminLTE
 
 ![Gambar Relasi Basis Data](gambar_relasi.png)
 
-URL gambar: https://github.com/USERNAME/NAMA-REPO/blob/main/gambar_relasi.png
+URL gambar: https://github.com/ftrymhd998-hash/db_mahasiswa/blob/main/gambar_relasi.png
 
 Tabel: `prodi` (1–N) `mahasiswa`, dan `mahasiswa` (N–N) `mata_kuliah` melalui tabel `krs`.
 
